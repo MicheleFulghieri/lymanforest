@@ -18,7 +18,7 @@ pip install --index-url [https://test.pypi.org/simple/](https://test.pypi.org/si
 
 
 # Quick start
-<from lymanforest.pipeline import process_snapshot
+from lymanforest.pipeline import process_snapshot
 
 # Run the pipeline
 results = process_snapshot(
@@ -26,5 +26,5 @@ results = process_snapshot(
     qso_wl=qso_wl_array, 
     qso_flux=qso_flux_array
 )
-
+```
 # results contains: lambda_qso_lya, master_tau, master_F, qso_wl_redshifted, final_qso_flux, redshift
