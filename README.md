@@ -1,3 +1,5 @@
+![Python Tests](https://github.com/MicheleFulghieri/lymanforest/actions/workflows/python-tests.yml/badge.svg)
+
 # lymanforest
 
 A Python package to process Lyman-alpha forest snapshots from cosmological simulations (e.g., Illustris TNG).
