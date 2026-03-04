@@ -15,6 +15,7 @@ A Python package to process Lyman-alpha forest snapshots from cosmological simul
 You can install the latest version of the package using:
 ```bash
 pip install --index-url [https://test.pypi.org/simple/](https://test.pypi.org/simple/) --extra-index-url [https://pypi.org/simple](https://pypi.org/simple) lymanforest
+```
 
 # Quick start
 from lymanforest import process_snapshot
