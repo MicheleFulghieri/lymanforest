@@ -6,7 +6,7 @@ lymanforest: A Python package to process Lyman-alpha forest snapshots.
 from .pipeline import process_snapshot
 
 # Package version definition (must match setup.py)
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 # Defines what is exported with "from lymanforest import *"
 __all__ = ['process_snapshot']

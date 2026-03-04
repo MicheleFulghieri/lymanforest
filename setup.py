@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='lymanforest',
-    version='0.1.1',
+    version='0.1.2',
     author='Michele',
     description='Pipeline to process the Lyman-alpha forest from TNG simulation and test the spectrum of a qso',
     packages=find_packages(),  
