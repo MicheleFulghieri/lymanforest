@@ -33,3 +33,6 @@ results = process_snapshot(
 # results contains: lambda_qso_lya, master_tau, master_F, qso_wl_redshifted, final_qso_flux, redshift
 
 ```
+
+## Credits
+This project was developed based on the course material of *Galaxy Evolution and Cosmic Structures* taught by Professor *Alejandro Benítez-Llambay* at *Università di Milano Bicocca*.
