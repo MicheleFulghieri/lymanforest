@@ -35,4 +35,4 @@ results = process_snapshot(
 ```
 
 ## Credits
-This project was developed based on the course material of *Galaxy Evolution and Cosmic Structures* taught by Professor *Alejandro Benítez-Llambay* at *Università di Milano Bicocca*.
+This project was developed based on the course material of *"Galaxy Evolution in Cosmic Structures"* taught by Professor *Alejandro Benítez-Llambay* at *Università di Milano Bicocca*.
