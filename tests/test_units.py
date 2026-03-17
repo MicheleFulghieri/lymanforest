@@ -6,7 +6,7 @@ from lymanforest.utils import hubble
 def test_hubble_value():
     # Test the Hubble function with known values
     # If z=0, H(z) must be H0
-    h0_cgs = 0.7 * 1e5 / (3.086e24) # un valore tipico
+    h0_cgs = 0.7 * 1e5 / (3.086e24) # a typical value
     res = hubble(z=0, omega_m=0.3, omega_l=0.7, h=h0_cgs)
     assert res == pytest.approx(h0_cgs)
 
